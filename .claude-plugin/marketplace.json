@@ -1,0 +1,11 @@
+{
+  "name": "perfectly-spike",
+  "owner": { "name": "Perfectly (prototype)" },
+  "plugins": [
+    {
+      "name": "perfectly-spike",
+      "source": "./plugins/perfectly-spike",
+      "description": "PROTOTYPE plugin for a claude.ai feasibility spike. Not a product."
+    }
+  ]
+}

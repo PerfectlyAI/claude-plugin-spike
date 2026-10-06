@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "perfectly-spike": { "type": "http", "url": "https://samira-reminiscent-ione.ngrok-free.dev/mcp" }
+  }
+}
